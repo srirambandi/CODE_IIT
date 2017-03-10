@@ -1,0 +1,200 @@
+Case 0
+Case #1: A
+Case 1
+Case #2: B
+Case 2
+Case #3: A
+Case 3
+Case #4: A
+Case 4
+Case #5: B
+Case 5
+Case #6: A
+Case 6
+Case #7: A
+Case 7
+Case #8: B
+Case 8
+Case #9: A
+Case 9
+Case #10: B
+Case 10
+Case #11: A
+Case 11
+Case #12: A
+Case 12
+Case #13: A
+Case 13
+Case #14: B
+Case 14
+Case #15: B
+Case 15
+Case #16: A
+Case 16
+Case #17: B
+Case 17
+Case #18: A
+Case 18
+Case #19: B
+Case 19
+Case #20: A
+Case 20
+Case #21: B
+Case 21
+Case #22: A
+Case 22
+Case #23: A
+Case 23
+Case #24: A
+Case 24
+Case #25: A
+Case 25
+Case #26: A
+Case 26
+Case #27: A
+Case 27
+Case #28: A
+Case 28
+Case #29: A
+Case 29
+Case #30: B
+Case 30
+Case #31: B
+Case 31
+Case #32: A
+Case 32
+Case #33: B
+Case 33
+Case #34: A
+Case 34
+Case #35: A
+Case 35
+Case #36: A
+Case 36
+Case #37: A
+Case 37
+Case #38: B
+Case 38
+Case #39: B
+Case 39
+Case #40: B
+Case 40
+Case #41: A
+Case 41
+Case #42: A
+Case 42
+Case #43: B
+Case 43
+Case #44: A
+Case 44
+Case #45: A
+Case 45
+Case #46: A
+Case 46
+Case #47: A
+Case 47
+Case #48: A
+Case 48
+Case #49: B
+Case 49
+Case #50: B
+Case 50
+Case #51: A
+Case 51
+Case #52: B
+Case 52
+Case #53: B
+Case 53
+Case #54: A
+Case 54
+Case #55: A
+Case 55
+Case #56: B
+Case 56
+Case #57: B
+Case 57
+Case #58: A
+Case 58
+Case #59: A
+Case 59
+Case #60: A
+Case 60
+Case #61: B
+Case 61
+Case #62: A
+Case 62
+Case #63: A
+Case 63
+Case #64: B
+Case 64
+Case #65: A
+Case 65
+Case #66: B
+Case 66
+Case #67: B
+Case 67
+Case #68: A
+Case 68
+Case #69: A
+Case 69
+Case #70: B
+Case 70
+Case #71: A
+Case 71
+Case #72: B
+Case 72
+Case #73: A
+Case 73
+Case #74: A
+Case 74
+Case #75: A
+Case 75
+Case #76: A
+Case 76
+Case #77: A
+Case 77
+Case #78: A
+Case 78
+Case #79: B
+Case 79
+Case #80: A
+Case 80
+Case #81: A
+Case 81
+Case #82: B
+Case 82
+Case #83: B
+Case 83
+Case #84: A
+Case 84
+Case #85: B
+Case 85
+Case #86: A
+Case 86
+Case #87: B
+Case 87
+Case #88: B
+Case 88
+Case #89: A
+Case 89
+Case #90: B
+Case 90
+Case #91: A
+Case 91
+Case #92: A
+Case 92
+Case #93: A
+Case 93
+Case #94: A
+Case 94
+Case #95: B
+Case 95
+Case #96: A
+Case 96
+Case #97: A
+Case 97
+Case #98: B
+Case 98
+Case #99: B
+Case 99
+Case #100: B
