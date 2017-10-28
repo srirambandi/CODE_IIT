@@ -6,4 +6,4 @@ Codejudge can be run from any PHP, MySQL server and can be used to power any cod
 
 No need to run to big companies to host your event. You can set up Codejudge almost anywhere and anytime!
 
-Further developments are being made for secure and fats usage.
+Further developments are being made for secure and fast usage.
